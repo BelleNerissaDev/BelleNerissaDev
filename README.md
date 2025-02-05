@@ -2,7 +2,7 @@
 <img align="right" width=150 height=150 alt="Belle-anime" src="https://cdn.discordapp.com/attachments/1209283321142452226/1209956444884045944/Whats_1.gif?ex=65e8cec0&is=65d659c0&hm=a3d048507dcee4532d1c0b05eca9d6f5d00a8e8c5561fe4f634f9bbf2a1bb18f&">
 
 - ✨ Open to work! ✨
-- 🌱 Software Engineering Student at PUC Minas Brazil
+- 🌱 Bachelor in Software Engineering, PUC Minas, Brazil
 - 👯 Seeking collaboration on hybrid full-stack projects encompassing both mobile and web development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Cosplayer, Geek, RPG Tabletop player ✌
